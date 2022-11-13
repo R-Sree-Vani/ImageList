@@ -1,4 +1,14 @@
-Image List using React
+`Image List using React`
+
+Step 1: Clone the repo
+
+Step 2: and open it in the vscode (or any other editor)
+
+STEP 3: Now open the terminal
+
+STEP 4: type the command npm start
+
+STEP 5: Now open the browser and type localhost:3000 and press enter and see the output
 
 <!-- # Getting Started with Create React App
 
