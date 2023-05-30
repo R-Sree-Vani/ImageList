@@ -1,4 +1,8 @@
 `Image List using React`
+Check it out at:<br>
+https://image-list.onrender.com/<br><br>
+
+or follow the steps below<br>
 
 Step 1: Clone the repo
 
